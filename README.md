@@ -4,11 +4,11 @@
 
 # Sumário Completo de Aulas
 
-| Titulos          | GUIA              | .JAVA             |
-| ---------------- | ----------------- | ----------------- |
-| Historia do Java | [Arquivo Guia](#) | [Arquivo Java](#) |
+| Titulos          | GUIA              | .JAVA                                                  |
+| ---------------- | ----------------- | ------------------------------------------------------ |
+| Historia do Java | [Arquivo Guia](#) | [Arquivo Java](java.AULAS/aula.001/java.HISTORIA.yaml) |
 
 # Sumário Completo de Exercicios
-| Titulos | GUIA              | .JAVA                                                  |
-| ------- | ----------------- | ------------------------------------------------------ |
-|         | [Arquivo Guia](#) | [Arquivo Java](java.AULAS/aula.001/java.HISTORIA.yaml) |
+| Titulos | GUIA              | .JAVA            |
+| ------- | ----------------- | ---------------- |
+|         | [Arquivo Guia](#) | [Arquivo Java]() |
