@@ -9,6 +9,6 @@
 | Historia do Java | [Arquivo Guia](#) | [Arquivo Java](#) |
 
 # Sumário Completo de Exercicios
-| Titulos | GUIA              | .JAVA             |
-| ------- | ----------------- | ----------------- |
-|         | [Arquivo Guia](#) | [Arquivo Java](#) |
+| Titulos | GUIA              | .JAVA                                                  |
+| ------- | ----------------- | ------------------------------------------------------ |
+|         | [Arquivo Guia](#) | [Arquivo Java](java.AULAS/aula.001/java.HISTORIA.yaml) |
