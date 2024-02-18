@@ -16,3 +16,5 @@
 | Titulos       | GUIA              | .JAVA                                                                        |
 | ------------- | ----------------- | ---------------------------------------------------------------------------- |
 | Exercicio 001 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.001/src/fundamentos/PrimeiroPrograma.java) |
+| Exercicio 002 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.002/clinica/src/)                           |
+| Exercicio 003 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.003/faculdade/src/)                        |
