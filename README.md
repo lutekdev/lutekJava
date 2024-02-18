@@ -13,6 +13,6 @@
 | Historia do Java | [Arquivo Guia]() | [Arquivo Java](java.AULAS/aula.001/java.HISTORIA.yaml) |
 
 # Sumário Completo de Exercicios
-| Titulos       | GUIA              | .JAVA            |
-| ------------- | ----------------- | ---------------- |
-| Exercicio 001 | [Arquivos Guia]() | [Arquivo Java]() |
+| Titulos       | GUIA              | .JAVA                                                                        |
+| ------------- | ----------------- | ---------------------------------------------------------------------------- |
+| Exercicio 001 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.001/src/fundamentos/PrimeiroPrograma.java) |
