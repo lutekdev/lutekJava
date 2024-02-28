@@ -8,13 +8,19 @@
 
 # Sumário Completo de Aulas - Leonardo Moura
 
-| Titulos          | GUIA             | .JAVA                                                                      |
-| ---------------- | ---------------- | -------------------------------------------------------------------------- |
-| Historia do Java | [Arquivo Guia]() | [Arquivo Java](java.AULAS/LeonardoMoura.Aulas/aula.001/java.HISTORIA.yaml) |
+| Titulos | GUIA             | .JAVA            |
+| ------- | ---------------- | ---------------- |
+|         | [Arquivo Guia]() | [Arquivo Java]() |
 
 # Sumário Completo de Exercicios - Leonardo Moura
 | Titulos       | GUIA              | .JAVA                                                                                         |
 | ------------- | ----------------- | --------------------------------------------------------------------------------------------- |
 | Exercicio 001 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/LeonardoMoura.Ex/ex.001/src/fundamentos/PrimeiroPrograma.java) |
 | Exercicio 002 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/LeonardoMoura.Ex/ex.002/clinica/src/)                          |
-| Exercicio 003 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.003/faculdade/src/)                                         |
+| Exercicio 003 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/LeonardoMoura.Ex/ex.003/faculdade/src/)                        |
+
+# Sumário Completo de Aulas - Gustavo Guanabara
+
+| Titulos          | GUIA             | .JAVA                                                                         |
+| ---------------- | ---------------- | ----------------------------------------------------------------------------- |
+| Historia do Java | [Arquivo Guia]() | [Arquivo Java](java.AULAS/GustavoGuanabara.Aulas/aula.001/java.HISTORIA.yaml) |
