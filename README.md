@@ -6,15 +6,15 @@
 | ---------- | ------------------------------------- |
 | Dicas Java | [Dicas De Java](java.DICAS/README.md) |
 
-# Sumário Completo de Aulas
+# Sumário Completo de Aulas - Leonardo Moura
 
-| Titulos          | GUIA             | .JAVA                                                  |
-| ---------------- | ---------------- | ------------------------------------------------------ |
-| Historia do Java | [Arquivo Guia]() | [Arquivo Java](java.AULAS/aula.001/java.HISTORIA.yaml) |
+| Titulos          | GUIA             | .JAVA                                                                      |
+| ---------------- | ---------------- | -------------------------------------------------------------------------- |
+| Historia do Java | [Arquivo Guia]() | [Arquivo Java](java.AULAS/LeonardoMoura.Aulas/aula.001/java.HISTORIA.yaml) |
 
-# Sumário Completo de Exercicios
-| Titulos       | GUIA              | .JAVA                                                                        |
-| ------------- | ----------------- | ---------------------------------------------------------------------------- |
-| Exercicio 001 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.001/src/fundamentos/PrimeiroPrograma.java) |
-| Exercicio 002 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.002/clinica/src/)                           |
-| Exercicio 003 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.003/faculdade/src/)                        |
+# Sumário Completo de Exercicios - Leonardo Moura
+| Titulos       | GUIA              | .JAVA                                                                                         |
+| ------------- | ----------------- | --------------------------------------------------------------------------------------------- |
+| Exercicio 001 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/LeonardoMoura.Ex/ex.001/src/fundamentos/PrimeiroPrograma.java) |
+| Exercicio 002 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/LeonardoMoura.Ex/ex.002/clinica/src/)                          |
+| Exercicio 003 | [Arquivos Guia]() | [Arquivo Java](java.EXERCICIOS/ex.003/faculdade/src/)                                         |
