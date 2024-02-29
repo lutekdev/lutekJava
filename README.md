@@ -4,19 +4,23 @@
 
 # Sumário Completo de Aulas - Leonardo Moura
 
-| Titulos    | GUIA             | .JAVA                                                                   |
-| ---------- | ---------------- | ----------------------------------------------------------------------- |
-| Introdução | [Arquivo Guia]() | [Arquivo Java](java.AULAS/LeonardoMoura.Aulas/aula.001/introducao.yaml) |
+| Titulos    | GUIA               | .JAVA                                                                     |
+| ---------- | ------------------ | ------------------------------------------------------------------------- |
+| Introdução | [✘ Arquivo Guia]() | [✓ Arquivo Java](java.AULAS/LeonardoMoura.Aulas/aula.001/introducao.yaml) |
 
 # Sumário Completo de Exercicios - Leonardo Moura
-| Titulos       | GUIA              | .JAVA            |
-| ------------- | ----------------- | ---------------- |
-| Exercicio 001 | [Arquivos Guia]() | [Arquivo Java]() |
-| Exercicio 002 | [Arquivos Guia]() | [Arquivo Java]() |
-| Exercicio 003 | [Arquivos Guia]() | [Arquivo Java]() |
+| Titulos       | GUIA                | .JAVA              |
+| ------------- | ------------------- | ------------------ |
+| Exercicio 001 | [✘ Arquivos Guia]() | [✘ Arquivo Java]() |
 
 # Sumário Completo de Aulas - Gustavo Guanabara
 
-| Titulos          | GUIA             | .JAVA            |
-| ---------------- | ---------------- | ---------------- |
-| Historia do Java | [Arquivo Guia]() | [Arquivo Java]() |
+| Titulos          | GUIA               | .JAVA              |
+| ---------------- | ------------------ | ------------------ |
+| Historia do Java | [✘ Arquivo Guia]() | [✘ Arquivo Java]() |
+
+
+# Sumário Completo de Exercicios - Gustavo Guanabara
+| Titulos       | GUIA                | .JAVA              |
+| ------------- | ------------------- | ------------------ |
+| Exercicio 001 | [✘ Arquivos Guia]() | [✘ Arquivo Java]() |
