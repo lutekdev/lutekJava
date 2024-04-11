@@ -1,0 +1,21 @@
+Edições Java:
+  - Java Roda Em Cima de um Sistema chamado JVM;
+  - Java é uma linguagem de programação orientada a objetos;
+  - Java é uma linguagem de programação multiparadigma;
+
+Edições:
+  - Java SE (Java Standard Edition)
+  - Java EE (Java Enterprise Edition)
+  - Java FX (Special Edition)
+
+Java EE:
+  - A Java EE, ou Java Platform, Enterprise Edition, é a plataforma que disponibiliza recursos para o desenvolvimento de aplicações corporativas voltadas para web e servidores de aplicação. Java EE foi projetada para suportar sistemas de uso em larga escala, ou seja, para uma quantidade significativa de usuários, possibilitando o desenvolvimento de aplicações escaláveis, robustas e multicamadas.
+
+Java SE:
+  - A Java SE (Java Platform, Standard Edition) é a plataforma de programação voltada para criação de applets e desenvolvimento de softwares para desktop, destinados a computadores pessoais, notebooks ou outras arquiteturas com maior capacidade de processamento e memória.
+
+JAVA FX:
+  - JavaFX é uma plataforma projetada para oferecer um rico conjunto de APIs que simplificam o desenvolvimento de softwares que utilizam conteúdo de multimídia. Para que isso seja possível, são utilizados avançados engines de mídia e gráficos de aceleração por hardware.
+
+Java Runtime Environment:
+  - Faz a copilação do JDK ou seja do código.
